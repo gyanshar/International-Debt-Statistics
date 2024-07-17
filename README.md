@@ -23,3 +23,6 @@ Parameters: Country_Name, Country_Code, Counterpart_Area_Name, Counterpart_Area_
 - Conducted in-depth analyses of international debt statistics to determine the number of countries with recorded debt, total debt by country, and identify key patterns and trends
 - Identified the top 5 countries with the highest debt levels, providing critical information for economic and financial assessments and pinpointed the country with the highest debt
 - Visualized a [dashboard](https://public.tableau.com/app/profile/gyanada.sharma/viz/ids_analysis/Dashboard1?publish=yes) in Tableau to highlight top debt holders, average debt per country and debt concentrations
+
+## Dashboard:
+![](Dashboard.png)
