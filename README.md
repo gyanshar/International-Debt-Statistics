@@ -25,4 +25,4 @@ Parameters: Country_Name, Country_Code, Counterpart_Area_Name, Counterpart_Area_
 - Visualized a [dashboard](https://public.tableau.com/app/profile/gyanada.sharma/viz/ids_analysis/Dashboard1?publish=yes) in Tableau to highlight top debt holders, average debt per country and debt concentrations
 
 ## Dashboard:
-![](Dashboard.png)
+![](dashboard.png)
