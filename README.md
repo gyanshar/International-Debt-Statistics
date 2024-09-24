@@ -1,7 +1,5 @@
 # International Debt Analysis
-
-## Aim:
-The aim of this project is to analyze the debt of different countries.
+This project involves analyzing international debt statistics using SQL and Tableau. The aim is to extract, clean, and visualize debt data to gain insights into global debt patterns across countries and regions.
 
 
 ## About the Dataset:
@@ -10,12 +8,16 @@ The aim of this project is to analyze the debt of different countries.
 
 The International Debt Report (IDR), formerly International Debt Statistics (IDS), is a longstanding annual publication of the World Bank featuring external debt statistics and analysis for the 121 low- and middle-income countries that report to the World Bank Debtor Reporting System (DRS).
 
-[Dataset](https://datacatalog.worldbank.org/search/dataset/0038015)
+[Dataset Link](https://datacatalog.worldbank.org/search/dataset/0038015)
 
 
-## Description:
 
-Parameters: Country_Name, Country_Code, Counterpart_Area_Name, Counterpart_Area_Code, Series_Name, Series_Code, Years
+#### Parameters:
+Country_Name, Country_Code, Counterpart_Area_Name, Counterpart_Area_Code, Series_Name, Series_Code, Years
+
+## Key Insights:
+- Total Debt: 290 Billion
+- Country with the highest debt: China
 
 
 ## Summary:
